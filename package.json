@@ -12,7 +12,8 @@
         "start": "gatsby develop",
         "build": "gatsby build",
         "serve": "gatsby serve",
-        "clean": "gatsby clean"
+        "clean": "gatsby clean",
+        "script": "Lisa Lee"
     },
     "dependencies": {
         "gatsby": "^3.0.1",
